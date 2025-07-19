@@ -1,2 +1,2 @@
 # HOI4-Randomizer
-HOI4 Randomizer Mod
+Randomizer Mod for Hearts of Iron IV
